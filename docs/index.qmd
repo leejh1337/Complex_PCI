@@ -1,0 +1,141 @@
+---
+title: "Intravascular Imaging-Guided or Angiography-Guided Complex PCI"
+author: "LEE JIN HO"
+format: 
+  revealjs:
+    theme: white
+    transition: slide
+    footer: "Intravascular Imaging-Guided or Angiography-Guided Complex PCI"
+editor: visual
+---
+
+## Title
+
+::: incremental
+-   Intravascular Imaging-Guided or Angiography-Guided Complex PCI
+
+<br> <br>
+
+-   Complex coronary-artery lesions에 대해 Intravascular Imaging-Guided PCI와 Angiography-Guided PCI 중 어느 것이 clinical outcome을 향상시키는가?
+:::
+
+## Terms
+
+-   **Intravascular Imaging** :혈관 내 이미지화 <br> <br>
+
+-   **Angiography** : 혈관조영술 -\> 혈관에 조영제를 투입하여 촬영하는 방법 <br> <br>
+
+-   **Intravascular Ultrasonography Imaging** :혈관 내 초음파 이미지화 <br> <br>
+
+-   **optical coherence tomography(OCT)** :광간섭단층촬영장치
+
+## Background
+
+::: incremental
+- 2세대 약물 방출형 stent의 사용은 PCI의 의학적인 역효과를 크게 줄였다. 
+- PCI중 IVUS Imaging나 OCT를 이용했을 때 stent의 크기, 설치위치, 확장 가능여부 등 여러 정보를 주었고 이는 clinical outcome의 개선에 도움을 줄 것이라 생각된다.
+- 그러나 Image guided의 clinical outcomes의 표본이Angiography-Guided에 비해 적다. 
+- Image guided PCI가 Angiography-Guided PCI에 비해 clinical outcome을 개선할 수 있는지 확인하고자 실험을 계획했다. 
+:::
+
+## 연구설계 {.smaller .scrollable}
+
+::: panel-tabset
+### 표본설정
+
+-   1639명의 Complex coronary-artery leison을 가지고 있는 환자들을 연구대상으로 선정했다. <br> <br>
+-   Complex coronary-artery leison은 true bifurcation, 만성적인 전체 관상동맥폐색증 등으로 정의됐다. <br> <br>
+-   2:1의 비율로 Intravascular Imaging-Guided PCI와 Angiography-Guided PCI를 실시하기로 했다. <br> <br>
+-   Intravascular Imaging-Guided: 1092명, Angiography-Guided: 547명 <br> <br>
+-   Intravascular Imaging-Guided PCI를 실시하기로 한 환자는 의사사의 판단에 따라 IVUS Imaging을 실시할지 OCT를 실시할지 결정했다.
+
+### 관찰기간
+
+-   중위값 2.1년(1.4년 \~ 3년) <br> <br>
+-   수술 후 1개월, 6개월, 12개월 후에 검사를 받았고 이후에는 1년에 한 번씩 검사를 받았다.
+:::
+
+## 실험설계 {.smaller}
+
+::: panel-tabset
+### End points
+
+-   primary end point -\> target-vessel failure: <br> 
+1.  death from cardiac causes(심장병 발병으로 인한 사망) <br>
+2.  target-vessel-related myocardial infarction(표적 혈관과 관련된 심근경색) <br>
+3.  target-vessel revascularization(표적 혈관재건술) 
+
+
+-   secondary end point: <br>
+이외의 요인들로 인한 target-vessel failure 
+
+
+### 통계적 분석 방법
+1.  귀무가설: 두 집단 사이에 primary outcome 발생의 차이가 없을 것이다.
+2.  신뢰구간: 90% (two-sided significance level of 5%)
+3.  분석방식: intention-to-treat <br>
+\* 실제로 치료를 받았는지에 따라서 환자군을 나누는 것이 아니라 초기에 치료군을 나눈 것에 맞추어서 분석을 하는 것
+4.  Kaplan-Meier analysis: end point까지의 시간을 구하는데 사용
+5.  Cox proportional-hazards regression: 처치효과를 측정하는데 사용
+:::
+
+## Results {.smaller}
+
+::: panel-tabset
+### 표본
+
+1.  1639명의 환자가 연구에 참여했다. 1092명의 환자는 Intravascular Imaging-guided PCI를 받았고 547명의 환자는 Angiography-Guided PCI를 받았다.(1092중 14명의 환자는 imaging device를 사용하는데 실패했다.)
+2.  Angiography 그룹의 환자 중 13명이 Intravascular Imaging devices를 사용했지만 intention-to-treat 방법에 따라 그대로 분석에 포함됐다.
+3.  나이, 성비, 병력 등 두 그룹간 의료적인 특성은 비슷한 것으로 나타났다.
+
+### Table
+
+<table>
+  <tr>
+    <td><img src="table1-1.png" width="90%" height="90%"/></td>
+    <td><img src="table1-2.png" width="90%" height="90%"/></td>
+  </tr>
+</table>
+:::
+
+## Results {.smaller .scrollable}
+
+::: panel-tabset
+### 절차의 특성
+
+-   관상동맥의 타겟병변의 특성과 PCI 절차가 두 그룹 사이에 잘 균형이 맞춰진 것으로 나왔왔다.
+-   Intravascular Imaging 그룹의 1092명 중 800명(73.3%)는 IVUS를 사용했고 278명(25.5%)는 OCT를 사용했다.
+-   IVUS와 OCT가 PCI전에 사용된 것은 1%, 후에 사용된 것은 23.6%, 전 후 둘 다 사용된 것은 75.3%였다.
+
+### End points
+
+-   primary end point는 Intravascular Imaging 그룹의 7.7%, Angiography 그룹의 12.3%에게서 나타났다(hazard ratio=0.64; 신뢰구간 95%, p-value=0.008)
+-   연구절차와 관련 없는 심근경색으로 인한 target-vessel failure의 위험이 Angiography 그룹이 더 큰 것으로 나타났다.(hazard ratio=0.59; 신뢰구간 95%)
+-   타겟 혈관과 관련된 심근경색이나 심장병 발병으로 인한 사망은 Intravascular Imaging 그룹의 5.3%, Angiography 그룹의 8.5%에서 일어났다.(hazard ratio=0.63; 95%신뢰구간)
+-   stent 혈전증은 전체 환자의 0.3%에서 발생했는데 Intravascular Imaging 그룹의 0.1%, Angiography 그룹의 0.7%에서 일어났다. (hazard ratio=0.25; 95%신뢰구간)
+
+### Table
+
+<td><img src="table2.png" width="90%" height="90%"/></td>
+
+### figure
+
+<table>
+  <tr>
+    <td><img src="figure1-a.png" width="90%" height="90%"/></td>
+    <td><img src="figure1-b.png" width="90%" height="90%"/></td>
+  </tr>
+</table>
+:::
+
+## Discussion 
+
+::: panel-tabset
+### 결론 및 한계
+
+-   Intravascular Imaging-Guided PCI가 Angiography guided PCI보다 심장병으로 인한 사망, 타겟 혈관과 관련된 심근경색, 타겟 혈관재건술 확률이 더 작다.
+
+- 그러나 몇 가지 한계들도 있었다. 대표적으로 의사가 환자에게 어떤 방법을 사용하는지 알고 있을 수밖에 없었다다.
+
+- 그러나 이러한 편향을 최소화하기 위해 엄정한 기준은 바탕으로 end-point 분석을 사용했다. 
+:::
